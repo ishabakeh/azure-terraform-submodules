@@ -1,0 +1,3 @@
+[submodule "azure-terraform"]
+	path = azure-terraform
+	url = https://github.com/ishabakeh/azure-terraform.git
